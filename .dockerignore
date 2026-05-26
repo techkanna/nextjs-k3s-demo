@@ -1,0 +1,52 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.yarn-integrity
+
+# Next.js
+.next
+out
+dist
+build
+
+# Development
+.env
+.env.local
+.env.*.local
+.DS_Store
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.project
+.classpath
+
+# CI/CD
+.github
+.gitlab-ci.yml
+.circleci
+
+# Documentation
+README.md
+docs/
+*.md
+
+# Testing
+.jest
+.coverage
+coverage/
+
+# Misc
+.turbo
+.cache
