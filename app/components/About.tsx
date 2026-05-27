@@ -22,7 +22,7 @@ export default function About() {
             While my professional work has focused on frontend leadership, I have built and showcased multiple proof-of-concepts (POCs) in full-stack and AI-driven applications, gaining practical hands-on experience in Next.js, PostgreSQL, Docker, Proxmox, and AI APIs.
             <br />
             <br />
-            My goal is to bridge my strong frontend expertise with full-stack problem solving, delivering end-to-end solutions that are scalable, modern, and AI-ready.
+            My goal is to bridge my strong frontend expertise with full-stack problem solving, delivering end-to-end solutions that are scalable, modern, and AI-ready. test
           </p>
         </motion.div>
 
